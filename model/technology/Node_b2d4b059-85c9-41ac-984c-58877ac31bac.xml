@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry Tracking Log "
+    id="b2d4b059-85c9-41ac-984c-58877ac31bac">
+  <properties
+      key="Name"
+      value="Inquiry Tracking Log "/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Server"
+      value="ITLPROD"/>
+</archimate:Node>

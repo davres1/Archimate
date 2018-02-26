@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment Run Hours with Asset ID"
+    id="3b1b2de1-74aa-4a68-a72b-74e54ca9f5a1">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_5c3ced54-084a-440f-94eb-c14d21d82aff.xml#5c3ced54-084a-440f-94eb-c14d21d82aff"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_95c35c93-8902-44ac-8dd9-59acb66cb9bf.xml#95c35c93-8902-44ac-8dd9-59acb66cb9bf"/>
+</archimate:TriggeringRelationship>

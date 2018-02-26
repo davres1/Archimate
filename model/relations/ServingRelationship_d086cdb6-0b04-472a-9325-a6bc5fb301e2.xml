@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Data"
+    id="d086cdb6-0b04-472a-9325-a6bc5fb301e2">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_c65d607f-39f6-4e3d-a639-54ff04e67337.xml#c65d607f-39f6-4e3d-a639-54ff04e67337"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_60ad8eda-70db-415a-be95-f7eb6395e1fa.xml#60ad8eda-70db-415a-be95-f7eb6395e1fa"/>
+</archimate:ServingRelationship>

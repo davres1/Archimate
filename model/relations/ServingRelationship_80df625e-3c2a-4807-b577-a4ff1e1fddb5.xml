@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postive Pay /Bank Reconciliation"
+    id="80df625e-3c2a-4807-b577-a4ff1e1fddb5"
+    documentation="Postive Pay /Bank Reconciliation">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_6cd0225b-ccc6-428d-996d-b5f8ed477147.xml#6cd0225b-ccc6-428d-996d-b5f8ed477147"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_e54fba43-3441-4652-ae19-8151eba01567.xml#e54fba43-3441-4652-ae19-8151eba01567"/>
+</archimate:ServingRelationship>

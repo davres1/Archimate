@@ -1,0 +1,40 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Application (EBSAPP)"
+    id="fc32fc19-26e1-4994-926c-0bb91ddbc435"
+    documentation="Production Application Server">
+  <properties
+      key="Name"
+      value="ebsapp"/>
+  <properties
+      key="Version"
+      value="R12.1.3"/>
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Location"
+      value="GJM"/>
+  <properties
+      key="OS Version"
+      value="Oracle Linux 6"/>
+  <properties
+      key="Owner"
+      value="Satish "/>
+  <properties
+      key="Product"
+      value="Oracle EBS Suite"/>
+  <properties
+      key="Server"
+      value="EBSAPP"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Year"/>
+  <properties
+      key="Last Updated"
+      value="2/12/2018"/>
+</archimate:Node>

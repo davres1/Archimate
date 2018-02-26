@@ -1,0 +1,37 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PBCS"
+    id="2d1e0f8c-2729-49c3-adba-ea5478e85288">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="Product"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Year"/>
+  <properties
+      key="icon"/>
+  <properties
+      key="must replace icons"/>
+  <properties
+      key="must replace labels"/>
+</archimate:ApplicationComponent>

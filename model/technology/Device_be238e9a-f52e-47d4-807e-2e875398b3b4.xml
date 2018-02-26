@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exadata Server"
+    id="be238e9a-f52e-47d4-807e-2e875398b3b4">
+  <properties
+      key="Name"
+      value="gjmora1dbadm"/>
+  <properties
+      key="Product"
+      value="Oracle Exadata X6"/>
+  <properties
+      key="Year"
+      value="2016"/>
+  <properties
+      key="Version"
+      value="X6"/>
+</archimate:Device>

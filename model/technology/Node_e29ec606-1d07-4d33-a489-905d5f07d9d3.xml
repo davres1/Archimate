@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Access System"
+    id="e29ec606-1d07-4d33-a489-905d5f07d9d3">
+  <properties
+      key="Name"
+      value="Information Access System"/>
+  <properties
+      key="Description"
+      value="Information Access System"/>
+  <properties
+      key="Server"
+      value="iasprod"/>
+  <properties
+      key="IP Address"/>
+</archimate:Node>

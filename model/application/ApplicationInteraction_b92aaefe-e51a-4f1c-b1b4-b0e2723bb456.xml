@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EBSToWAM interfaces"
+    id="b92aaefe-e51a-4f1c-b1b4-b0e2723bb456"
+    documentation="EBSToWAMBlanketContractBPELProcess&#xD;&#xA;EBSToWAMBudgetBPELProcess&#xD;&#xA;EBSToWAMCatalogBPELProcess&#xD;&#xA;EBSToWAMCheckOutBPELProcess&#xD;&#xA;EBSToWAMEmployeeBPELProcess&#xD;&#xA;EBSToWAMEmployeeWageBPELProcess&#xD;&#xA;EBSToWAMInvoiceBPELProcess&#xD;&#xA;EBSToWAMPurchaseOrderBPELProcess&#xD;&#xA;EBSToWAMReceiptBPELProcess&#xD;&#xA;EBSToWAMStoreRoomBpelProcess&#xD;&#xA;EBSToWAMVendorBPELProcess"/>

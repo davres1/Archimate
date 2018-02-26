@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAM to EBS"
+    id="3c683737-c4de-4076-b300-cfd783e2f881">
+  <source
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_35cb68b4-fa12-40ca-9f07-58841e442d13.xml#35cb68b4-fa12-40ca-9f07-58841e442d13"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_fc32fc19-26e1-4994-926c-0bb91ddbc435.xml#fc32fc19-26e1-4994-926c-0bb91ddbc435"/>
+</archimate:ServingRelationship>

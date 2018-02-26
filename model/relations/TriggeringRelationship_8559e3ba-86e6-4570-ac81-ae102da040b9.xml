@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Industry &amp; Environment Sampling Data"
+    id="8559e3ba-86e6-4570-ac81-ae102da040b9">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_7d310a54-ef97-46d5-bf11-faa76c7eaf92.xml#7d310a54-ef97-46d5-bf11-faa76c7eaf92"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_5a8b92be-3a34-4a1f-a33a-b5fa69fe15da.xml#5a8b92be-3a34-4a1f-a33a-b5fa69fe15da"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Benefit DataInvoice"
+    id="6d9ac16d-d08d-41ef-8b32-fca044e95856">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_6a20f083-9c78-4164-8afe-9ac630038bd9.xml#6a20f083-9c78-4164-8afe-9ac630038bd9"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_58c3653c-8d16-4528-be33-1cae4665221b.xml#58c3653c-8d16-4528-be33-1cae4665221b"/>
+</archimate:ServingRelationship>

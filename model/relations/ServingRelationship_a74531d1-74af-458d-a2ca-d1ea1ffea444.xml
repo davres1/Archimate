@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Payment/Vendor List"
+    id="a74531d1-74af-458d-a2ca-d1ea1ffea444">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_8ece7c50-ad9d-4a26-9526-ef1363bea066.xml#8ece7c50-ad9d-4a26-9526-ef1363bea066"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_48964e40-f8a4-4b42-9703-e6258e148998.xml#48964e40-f8a4-4b42-9703-e6258e148998"/>
+</archimate:ServingRelationship>

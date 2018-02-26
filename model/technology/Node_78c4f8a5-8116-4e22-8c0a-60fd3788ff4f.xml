@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Ware House"
+    id="78c4f8a5-8116-4e22-8c0a-60fd3788ff4f"
+    documentation="Data Ware House">
+  <properties
+      key="Name"
+      value="Neoappsprod"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="IP Address"/>
+</archimate:Node>

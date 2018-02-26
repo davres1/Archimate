@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taleo to Oracle EBS"
+    id="f47bd7e8-34af-482d-b11e-dad2e9e49ddb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3253ab3b-7644-47a5-8d14-41ccd31d464f.xml#3253ab3b-7644-47a5-8d14-41ccd31d464f"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_fc32fc19-26e1-4994-926c-0bb91ddbc435.xml#fc32fc19-26e1-4994-926c-0bb91ddbc435"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Lorain county"
+    id="e3bb3228-b9e2-4acb-80fe-166841f056cd">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_60ad8eda-70db-415a-be95-f7eb6395e1fa.xml#60ad8eda-70db-415a-be95-f7eb6395e1fa"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_56e8d5b5-6cb0-40ae-83a2-825576b03ad2.xml#56e8d5b5-6cb0-40ae-83a2-825576b03ad2"/>
+</archimate:ServingRelationship>

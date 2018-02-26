@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operation Data Management System"
+    id="5c3ced54-084a-440f-94eb-c14d21d82aff">
+  <properties
+      key="Name"
+      value="Operation Data Management System"/>
+  <properties
+      key="Description"
+      value="Operation Data Management System"/>
+  <properties
+      key="Server"
+      value="ODMSPROD"/>
+</archimate:Node>

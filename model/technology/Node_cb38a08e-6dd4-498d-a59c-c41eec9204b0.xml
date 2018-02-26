@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor Registration(NEOAPP)"
+    id="cb38a08e-6dd4-498d-a59c-c41eec9204b0">
+  <properties
+      key="Name"
+      value="Neoappsprod"/>
+  <properties
+      key="Description"
+      value="In House Apps"/>
+</archimate:Node>

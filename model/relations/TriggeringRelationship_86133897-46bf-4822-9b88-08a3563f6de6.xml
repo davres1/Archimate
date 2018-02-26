@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GIS data"
+    id="86133897-46bf-4822-9b88-08a3563f6de6">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_5a8b92be-3a34-4a1f-a33a-b5fa69fe15da.xml#5a8b92be-3a34-4a1f-a33a-b5fa69fe15da"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_43c87ea5-61c5-4156-998c-721e09949c43.xml#43c87ea5-61c5-4156-998c-721e09949c43"/>
+</archimate:TriggeringRelationship>

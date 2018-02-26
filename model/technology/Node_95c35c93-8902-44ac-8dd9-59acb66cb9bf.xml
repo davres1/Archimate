@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle WAM"
+    id="95c35c93-8902-44ac-8dd9-59acb66cb9bf"
+    documentation="Oracle Utilities Work and Asset Management Version 1.9.1.2.6 ">
+  <properties
+      key="Name"
+      value="xwamprod"/>
+  <properties
+      key="Version"
+      value="Oracle Utilities Work and Asset Management Version 1.9.1.2.6 "/>
+  <properties
+      key="IP Address"/>
+</archimate:Node>

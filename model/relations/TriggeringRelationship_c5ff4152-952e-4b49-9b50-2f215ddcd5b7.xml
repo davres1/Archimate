@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EBS to WAM"
+    id="c5ff4152-952e-4b49-9b50-2f215ddcd5b7">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_fc32fc19-26e1-4994-926c-0bb91ddbc435.xml#fc32fc19-26e1-4994-926c-0bb91ddbc435"/>
+  <target
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_b92aaefe-e51a-4f1c-b1b4-b0e2723bb456.xml#b92aaefe-e51a-4f1c-b1b4-b0e2723bb456"/>
+</archimate:TriggeringRelationship>

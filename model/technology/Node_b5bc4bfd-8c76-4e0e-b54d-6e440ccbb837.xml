@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Apex"
+    id="b5bc4bfd-8c76-4e0e-b54d-6e440ccbb837">
+  <properties
+      key="Name"
+      value="Oracle Apex"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="Server"
+      value="apexwebprod"/>
+</archimate:Node>

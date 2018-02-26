@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OLM Production"
+    id="701875c2-b12a-4fe0-a3ef-2e850d995075"
+    documentation="ILearing Module of Oracle EBS">
+  <properties
+      key="Name"
+      value="GJMOLMPROD"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="OS Version"
+      value="Oracle Linux Version 6 (64 bit)"/>
+</archimate:Node>

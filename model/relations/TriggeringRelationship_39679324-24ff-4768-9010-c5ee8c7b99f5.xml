@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accruals"
+    id="39679324-24ff-4768-9010-c5ee8c7b99f5">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_58c3653c-8d16-4528-be33-1cae4665221b.xml#58c3653c-8d16-4528-be33-1cae4665221b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_48c8ce79-c016-4ff7-b966-178a7bed3d66.xml#48c8ce79-c016-4ff7-b966-178a7bed3d66"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice for Weell Water customer"
+    id="323422f0-32d8-4ace-bcf1-fcff3ad41a99"
+    documentation="Invoice for Weell Water customer">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_60ad8eda-70db-415a-be95-f7eb6395e1fa.xml#60ad8eda-70db-415a-be95-f7eb6395e1fa"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_5f1f716e-ca15-460c-90f3-361df77a7b96.xml#5f1f716e-ca15-460c-90f3-361df77a7b96"/>
+</archimate:ServingRelationship>

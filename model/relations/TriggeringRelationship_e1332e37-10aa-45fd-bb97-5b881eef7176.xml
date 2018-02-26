@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summarized Plant Data(Future)"
+    id="e1332e37-10aa-45fd-bb97-5b881eef7176">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a8f53656-ea12-4c40-8b93-5d56ed86f672.xml#a8f53656-ea12-4c40-8b93-5d56ed86f672"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0090e7ac-ef63-4430-9599-53e6289b6943.xml#0090e7ac-ef63-4430-9599-53e6289b6943"/>
+</archimate:TriggeringRelationship>

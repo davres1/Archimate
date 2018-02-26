@@ -1,0 +1,37 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Cloud"
+    id="5b4cc8c4-9fca-49fb-9f44-79002ebb5c88"
+    documentation="Oracle Cloud Applications">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="Product"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Year"/>
+  <properties
+      key="icon"
+      value="custom/cloud.png"/>
+  <properties
+      key="must replace labels"/>
+</archimate:Facility>

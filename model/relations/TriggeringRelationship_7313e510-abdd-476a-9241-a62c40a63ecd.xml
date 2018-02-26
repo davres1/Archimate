@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset ID Document Path"
+    id="7313e510-abdd-476a-9241-a62c40a63ecd">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_e29ec606-1d07-4d33-a489-905d5f07d9d3.xml#e29ec606-1d07-4d33-a489-905d5f07d9d3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_95c35c93-8902-44ac-8dd9-59acb66cb9bf.xml#95c35c93-8902-44ac-8dd9-59acb66cb9bf"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telog"
+    id="9029015c-950d-4978-976c-307c04b6f220">
+  <properties
+      key="Name"
+      value="Telog"/>
+  <properties
+      key="Version"
+      value="Sql server"/>
+</archimate:Node>

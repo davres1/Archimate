@@ -1,0 +1,44 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Notification to office 365"
+    id="86000456-308f-43be-bcf4-c4a6f148031f">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="Product"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Year"/>
+  <properties
+      key="icon"/>
+  <properties
+      key="must replace icons"/>
+  <properties
+      key="must replace labels"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_fc32fc19-26e1-4994-926c-0bb91ddbc435.xml#fc32fc19-26e1-4994-926c-0bb91ddbc435"/>
+  <target
+      xsi:type="archimate:Facility"
+      href="Facility_8288f588-f03e-4d3d-b542-5829dfc16578.xml#8288f588-f03e-4d3d-b542-5829dfc16578"/>
+</archimate:FlowRelationship>

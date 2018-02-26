@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kronos Apps"
+    id="31570819-e9db-4488-bfb6-c0e5eaddbe1d">
+  <properties
+      key="Name"
+      value="Kwebprod"/>
+  <properties
+      key="Description"
+      value="Kronos App Server"/>
+</archimate:Node>

@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="City Water Data"
+    id="9c494a10-d2c5-4366-a60c-62d2f82da86e"
+    documentation="City Water Data">
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+</archimate:Node>

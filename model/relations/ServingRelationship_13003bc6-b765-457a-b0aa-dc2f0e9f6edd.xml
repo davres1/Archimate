@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor Data"
+    id="13003bc6-b765-457a-b0aa-dc2f0e9f6edd">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_cb38a08e-6dd4-498d-a59c-c41eec9204b0.xml#cb38a08e-6dd4-498d-a59c-c41eec9204b0"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_5b71fb49-54e3-4889-83ad-0af88ef4033f.xml#5b71fb49-54e3-4889-83ad-0af88ef4033f"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summarized Plant  Data"
+    id="53458d9e-e8df-4951-8268-6d10c7969fa9">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_0f884833-32de-49a8-b580-41fbf6a3e254.xml#0f884833-32de-49a8-b580-41fbf6a3e254"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a8f53656-ea12-4c40-8b93-5d56ed86f672.xml#a8f53656-ea12-4c40-8b93-5d56ed86f672"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Contracts"
+    id="a984c6eb-88e0-4513-8b93-62d4af882e65">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_5b71fb49-54e3-4889-83ad-0af88ef4033f.xml#5b71fb49-54e3-4889-83ad-0af88ef4033f"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_48964e40-f8a4-4b42-9703-e6258e148998.xml#48964e40-f8a4-4b42-9703-e6258e148998"/>
+</archimate:FlowRelationship>

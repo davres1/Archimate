@@ -1,0 +1,33 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology &amp; Physical"
+    id="c1cc9bfd-e594-4a68-a77a-3bd5bf56c418"
+    type="technology">
+  <properties/>
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="Product"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Year"/>
+  <properties
+      key="must replace labels"/>
+</archimate:Folder>

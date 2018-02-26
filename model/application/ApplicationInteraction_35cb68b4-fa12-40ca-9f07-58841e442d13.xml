@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAM to EBS interfaces"
+    id="35cb68b4-fa12-40ca-9f07-58841e442d13"
+    documentation="WAMToEBSGLBPELProcess&#xD;&#xA;WAMToEBSRequisstionBPELProcess&#xD;&#xA;WAMToEBSWorkOrderBPELProcess"/>

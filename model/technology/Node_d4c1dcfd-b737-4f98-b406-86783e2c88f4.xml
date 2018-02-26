@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neotix Production"
+    id="d4c1dcfd-b737-4f98-b406-86783e2c88f4">
+  <properties
+      key="Name"/>
+  <properties
+      key="Name"
+      value="NeotixPROD"/>
+</archimate:Node>

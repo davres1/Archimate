@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EBS external Tier"
+    id="55c25f6f-4f6b-49ef-8229-d0a499ca93d5"
+    documentation="External Tier for i-Supplier">
+  <properties
+      key="Name"
+      value="ebsext"/>
+  <properties
+      key="Version"
+      value="R12.1.3"/>
+  <properties
+      key="OS Version"
+      value="Oracle Linux Version 6 (64 bit)"/>
+</archimate:Node>

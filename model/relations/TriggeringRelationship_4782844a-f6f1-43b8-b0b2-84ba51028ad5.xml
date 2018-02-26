@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Data"
+    id="4782844a-f6f1-43b8-b0b2-84ba51028ad5">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_689d2857-ab6d-409a-aa42-57ba5a5b17e3.xml#689d2857-ab6d-409a-aa42-57ba5a5b17e3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_18d0b8fc-8b74-4c9b-81a2-6f1cc7f6383c.xml#18d0b8fc-8b74-4c9b-81a2-6f1cc7f6383c"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WonderWare"
+    id="0f884833-32de-49a8-b580-41fbf6a3e254">
+  <properties
+      key="Name"
+      value="WonderWare"/>
+  <properties
+      key="Version"
+      value="Sql server"/>
+</archimate:Node>
