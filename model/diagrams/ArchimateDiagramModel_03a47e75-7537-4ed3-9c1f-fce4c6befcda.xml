@@ -53,8 +53,8 @@
     <bounds
         x="574"
         y="543"
-        width="120"
-        height="55"/>
+        width="135"
+        height="142"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_fc32fc19-26e1-4994-926c-0bb91ddbc435.xml#fc32fc19-26e1-4994-926c-0bb91ddbc435"/>
