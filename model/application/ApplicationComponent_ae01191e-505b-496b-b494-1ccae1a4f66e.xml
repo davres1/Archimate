@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Analytical Cloud (OAC)"
+    id="ae01191e-505b-496b-b494-1ccae1a4f66e">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"
+      value="Oracle OAC"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"
+      value="Oracle Cloud"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"
+      value="Daryl Coats"/>
+  <properties
+      key="Product"
+      value="OAC"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Year"
+      value="2018"/>
+</archimate:ApplicationComponent>

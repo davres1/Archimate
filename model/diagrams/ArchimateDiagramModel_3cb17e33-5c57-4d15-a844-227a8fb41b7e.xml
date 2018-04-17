@@ -267,15 +267,6 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_51f90e79-a51e-4da4-a343-1530b2757411.xml#51f90e79-a51e-4da4-a343-1530b2757411"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="e935e03f-104b-41b8-bb69-2c6da09dd100"
-          source="f94bf5a4-eb16-4265-bd44-2c369f342a90"
-          target="94d22613-b6e0-42da-abfc-853939dd200d">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_eedab8a5-48f4-4ec0-a6e7-cc6f90581dc7.xml#eedab8a5-48f4-4ec0-a6e7-cc6f90581dc7"/>
-      </sourceConnections>
       <bounds
           x="252"
           y="36"
@@ -362,20 +353,6 @@
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_55c26343-d963-414d-926c-aeed897d692d.xml#55c26343-d963-414d-926c-aeed897d692d"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="94d22613-b6e0-42da-abfc-853939dd200d"
-          targetConnections="e935e03f-104b-41b8-bb69-2c6da09dd100"
-          fillColor="#ff0000">
-        <bounds
-            x="36"
-            y="408"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationFunction"
-            href="ApplicationFunction_2ab98803-0bd4-495c-9a8a-c2106d6e1ca8.xml#2ab98803-0bd4-495c-9a8a-c2106d6e1ca8"/>
       </children>
       <archimateElement
           xsi:type="archimate:ApplicationInteraction"
