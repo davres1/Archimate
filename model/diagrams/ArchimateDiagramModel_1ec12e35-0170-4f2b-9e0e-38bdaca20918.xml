@@ -44,10 +44,10 @@
           href="TriggeringRelationship_c5ff4152-952e-4b49-9b50-2f215ddcd5b7.xml#c5ff4152-952e-4b49-9b50-2f215ddcd5b7"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="20"
+        x="480"
+        y="168"
         width="120"
-        height="55"/>
+        height="121"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_fc32fc19-26e1-4994-926c-0bb91ddbc435.xml#fc32fc19-26e1-4994-926c-0bb91ddbc435"/>
