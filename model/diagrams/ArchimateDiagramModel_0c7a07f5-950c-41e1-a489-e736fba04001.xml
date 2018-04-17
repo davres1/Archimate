@@ -72,8 +72,8 @@
           href="ServingRelationship_9957cf8c-4208-42d4-ad0a-1b3d05459294.xml#9957cf8c-4208-42d4-ad0a-1b3d05459294"/>
     </sourceConnections>
     <bounds
-        x="170"
-        y="100"
+        x="24"
+        y="84"
         width="120"
         height="55"/>
     <archimateElement
@@ -93,8 +93,8 @@
           href="TriggeringRelationship_643f524e-c3cc-41bd-ab94-fc5440e05097.xml#643f524e-c3cc-41bd-ab94-fc5440e05097"/>
     </sourceConnections>
     <bounds
-        x="170"
-        y="180"
+        x="780"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
@@ -124,8 +124,8 @@
           href="TriggeringRelationship_8559e3ba-86e6-4570-ac81-ae102da040b9.xml#8559e3ba-86e6-4570-ac81-ae102da040b9"/>
     </sourceConnections>
     <bounds
-        x="170"
-        y="260"
+        x="51"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
