@@ -1,0 +1,23 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Share Server"
+    id="789ebda2-527f-4109-b199-e842b5f1ec0f">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="Product"/>
+</archimate:Node>

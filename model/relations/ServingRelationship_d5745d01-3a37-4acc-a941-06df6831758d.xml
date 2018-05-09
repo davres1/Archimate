@@ -1,0 +1,38 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connection from DB to OAC"
+    id="d5745d01-3a37-4acc-a941-06df6831758d">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="OS Version"/>
+  <properties
+      key="Owner"/>
+  <properties
+      key="Product"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Upgrade Plans"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Year"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e3619dc9-b359-4253-b22f-444e1a0947bf.xml#e3619dc9-b359-4253-b22f-444e1a0947bf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ae01191e-505b-496b-b494-1ccae1a4f66e.xml#ae01191e-505b-496b-b494-1ccae1a4f66e"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DB : NeoDW_PROD"
+    id="e3619dc9-b359-4253-b22f-444e1a0947bf"
+    documentation="New Data Warehouse database">
+  <properties
+      key="Bussiness Owner"
+      value="DW"/>
+  <properties
+      key="Description"
+      value="Data warehouse prod database"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Last Updated"/>
+  <properties
+      key="Location"
+      value="GJM"/>
+  <properties
+      key="Name"
+      value="NEODW_PROD"/>
+  <properties
+      key="Product"/>
+  <properties
+      key="Server"/>
+  <properties
+      key="Version"
+      value="Oracle 12c (Data Warehouse template)"/>
+</archimate:ApplicationComponent>

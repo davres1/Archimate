@@ -1,0 +1,25 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CWD File Transfer"
+    id="7f2deba5-4b89-4b01-bc82-14a73098783c"
+    documentation="FTP Link from Share file server to database">
+  <properties
+      key="Bussiness Owner"/>
+  <properties
+      key="Description"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Location"/>
+  <properties
+      key="Name"/>
+  <properties
+      key="Server"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_789ebda2-527f-4109-b199-e842b5f1ec0f.xml#789ebda2-527f-4109-b199-e842b5f1ec0f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e3619dc9-b359-4253-b22f-444e1a0947bf.xml#e3619dc9-b359-4253-b22f-444e1a0947bf"/>
+</archimate:ServingRelationship>
