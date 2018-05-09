@@ -69,7 +69,7 @@
           fillColor="#b5ffff">
         <bounds
             x="228"
-            y="24"
+            y="48"
             width="120"
             height="55"/>
         <archimateElement
@@ -283,9 +283,9 @@
       </sourceConnections>
       <bounds
           x="204"
-          y="24"
+          y="33"
           width="120"
-          height="55"/>
+          height="64"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_55c25f6f-4f6b-49ef-8229-d0a499ca93d5.xml#55c25f6f-4f6b-49ef-8229-d0a499ca93d5"/>
