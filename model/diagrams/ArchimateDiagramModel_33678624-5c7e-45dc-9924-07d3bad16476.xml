@@ -20,7 +20,7 @@
     <bounds
         x="288"
         y="36"
-        width="553"
+        width="745"
         height="589"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -65,10 +65,19 @@
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_044dc8ad-b607-4518-b1bd-1359ec495f58.xml#044dc8ad-b607-4518-b1bd-1359ec495f58"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="b175839c-bba8-4969-83ef-c4ce4037b43d"
+          source="75853d65-b52d-4f40-8ab7-b1fe3dd9f3f4"
+          target="34379393-a7e6-40b1-84f4-c5707214280a">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_7398341e-3ca6-487e-b18d-73196f6f9c1b.xml#7398341e-3ca6-487e-b18d-73196f6f9c1b"/>
+      </sourceConnections>
       <bounds
           x="48"
           y="36"
-          width="469"
+          width="625"
           height="433"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -107,13 +116,28 @@
           lineColor="#5c5c5c"
           fillColor="#26c40b">
         <bounds
-            x="324"
+            x="468"
             y="48"
             width="120"
             height="311"/>
         <archimateElement
             xsi:type="archimate:ApplicationInteraction"
             href="ApplicationInteraction_20c9e7d9-e1bf-4c07-82a6-73f30f659704.xml#20c9e7d9-e1bf-4c07-82a6-73f30f659704"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="34379393-a7e6-40b1-84f4-c5707214280a"
+          targetConnections="b175839c-bba8-4969-83ef-c4ce4037b43d"
+          lineColor="#5c5c5c"
+          fillColor="#26c40b">
+        <bounds
+            x="324"
+            y="48"
+            width="120"
+            height="311"/>
+        <archimateElement
+            xsi:type="archimate:BusinessInteraction"
+            href="BusinessInteraction_34775016-acab-4d91-8f5e-7fd8d0afab3b.xml#34775016-acab-4d91-8f5e-7fd8d0afab3b"/>
       </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
