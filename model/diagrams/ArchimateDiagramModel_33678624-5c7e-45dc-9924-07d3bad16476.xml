@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DW View "
-    id="33678624-5c7e-45dc-9924-07d3bad16476">
+    id="33678624-5c7e-45dc-9924-07d3bad16476"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="58e3a7ef-3799-442f-bd6b-f5d45429bbf8"
@@ -166,7 +167,7 @@
         x="48"
         y="216"
         width="120"
-        height="55"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_789ebda2-527f-4109-b199-e842b5f1ec0f.xml#789ebda2-527f-4109-b199-e842b5f1ec0f"/>
@@ -178,10 +179,10 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="1056"
-        y="162"
+        x="1212"
+        y="225"
         width="120"
-        height="55"/>
+        height="79"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_ae01191e-505b-496b-b494-1ccae1a4f66e.xml#ae01191e-505b-496b-b494-1ccae1a4f66e"/>
